@@ -22,7 +22,7 @@ public class Futuro {
         System.out.println("Estudiante " + args[0] + " : ");
         
     }
-    static String veredicto(String valor1, String valor2) {
+    public static String veredicto(String valor1, String valor2) {
     
         
 if (valor1.equals(valor2)) {
