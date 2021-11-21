@@ -34,3 +34,4 @@ if (Integer.valueOf(valor1) < Integer.valueOf(valor2)){
 return "Ideal. Trabajas los contenidos en casa.";
 }
 }
+//Ana
